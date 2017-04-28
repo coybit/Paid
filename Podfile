@@ -6,6 +6,8 @@ target 'Paid' do
   use_frameworks!
 
   # Pods for Paid
+  pod 'ZFRippleButton'
+  pod 'GSMessages'
 
   target 'PaidTests' do
     inherit! :search_paths
