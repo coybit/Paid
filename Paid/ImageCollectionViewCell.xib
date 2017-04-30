@@ -24,7 +24,7 @@
                     </imageView>
                 </subviews>
             </view>
-            <color key="backgroundColor" white="0.82687952519999997" alpha="1" colorSpace="calibratedWhite"/>
+            <color key="backgroundColor" white="0.9213169642857143" alpha="1" colorSpace="calibratedWhite"/>
             <connections>
                 <outlet property="imgContent" destination="Twd-zJ-J67" id="Gc4-DV-iWT"/>
             </connections>
